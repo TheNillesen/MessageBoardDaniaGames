@@ -16,5 +16,10 @@ namespace MessageBoard
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

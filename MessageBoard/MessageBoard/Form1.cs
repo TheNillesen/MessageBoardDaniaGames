@@ -83,7 +83,7 @@ namespace MessageBoard
             //her skal vi ind på redigere uge som er form 2
             this.Hide();
             Form2 f2 = new Form2();
-            f2.ShowDialog(); 
+            f2.Show(); 
             
 
         }
