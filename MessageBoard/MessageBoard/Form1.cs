@@ -72,5 +72,10 @@ namespace MessageBoard
         {
 
         }
+
+        private void pictureBox4_MouseClick(object sender, MouseEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
