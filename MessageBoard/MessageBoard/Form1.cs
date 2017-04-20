@@ -40,12 +40,12 @@ namespace MessageBoard
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
         {
-            pictureBox2.Image = Resources.rediger;
+            pictureBox2.Image = Resources.rediger2;
         }
 
         private void pictureBox2_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox2.Image = Resources.rediger2;
+            pictureBox2.Image = Resources.rediger;
         }
 
         private void pictureBox3_MouseHover(object sender, EventArgs e)
