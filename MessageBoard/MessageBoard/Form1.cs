@@ -30,32 +30,32 @@ namespace MessageBoard
 
         private void pictureBox1_MouseHover(object sender, EventArgs e)
         {
-            pictureBox1.Image = Resources.rubberducker2;
+            pictureBox1.Image = Resources.rubberduckdania;
         }
 
         private void pictureBox1_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox1.Image = Resources.RubberDucker;
+            pictureBox1.Image = Resources.rubberduckdania2;
         }
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
         {
-            pictureBox2.Image = Resources.red1;
+            pictureBox2.Image = Resources.rediger;
         }
 
         private void pictureBox2_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox2.Image = Resources.red2;
+            pictureBox2.Image = Resources.rediger2;
         }
 
         private void pictureBox3_MouseHover(object sender, EventArgs e)
         {
-            pictureBox3.Image = Resources.skemaviser2;
+            pictureBox3.Image = Resources.Skemaviserdania;
         }
 
         private void pictureBox3_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox3.Image = Resources.skemaviser1;
+            pictureBox3.Image = Resources.Skemaviserdania2;
         }
     }
 }

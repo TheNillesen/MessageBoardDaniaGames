@@ -118,22 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="red1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="daniagames" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\daniagames.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="red2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\red2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rediger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rediger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="RubberDucker" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RubberDucker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rediger2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rediger2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="rubberducker2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\rubberducker2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rubberduckdania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubberduckdania.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="skemaviser1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\skemaviser1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="rubberduckdania2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubberduckdania2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="skemaviser2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\skemaviser2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Skemaviserdania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skemaviserdania.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skemaviserdania2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skemaviserdania2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

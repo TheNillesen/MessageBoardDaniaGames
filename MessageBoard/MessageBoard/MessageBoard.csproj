@@ -90,13 +90,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\daniagames.png" />
-    <Content Include="Resources\rediger.png" />
-    <Content Include="Resources\rediger2.png" />
-    <Content Include="Resources\rubberduckdania.png" />
-    <Content Include="Resources\rubberduckdania2.png" />
-    <Content Include="Resources\Skemaviserdania.png" />
-    <Content Include="Resources\Skemaviserdania2.png" />
+    <None Include="Resources\Skemaviserdania2.png" />
+    <None Include="Resources\daniagames.png" />
+    <None Include="Resources\rediger.png" />
+    <None Include="Resources\rediger2.png" />
+    <None Include="Resources\rubberduckdania.png" />
+    <None Include="Resources\Skemaviserdania.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubberduckdania2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
