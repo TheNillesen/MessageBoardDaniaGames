@@ -13,11 +13,18 @@ namespace MessageBoard
 {
     public partial class Form1 : Form
     {
+        private const int WM_NCHITTEST = 0x84;
+        private const int HTCLIENT = 0x1;
+        private const int HTCAPTION = 0x2;
+
+
         public Form1()
         {
             InitializeComponent();
         }
-
+        
+        
+   
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -86,6 +93,21 @@ namespace MessageBoard
             f2.Show(); 
             
 
+        }
+
+        //drag and move the form!
+        protected override void WndProc(ref Message m)
+        {
+            switch (m.Msg)
+            {
+                case WM_NCHITTEST:
+                    base.WndProc(ref m);
+                    if ((int)m.Result == HTCLIENT)
+                        m.Result = (IntPtr)HTCAPTION;
+                    return;
+                    break;
+            }
+            base.WndProc(ref m);
         }
     }
 }
