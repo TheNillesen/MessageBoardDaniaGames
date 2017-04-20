@@ -57,5 +57,20 @@ namespace MessageBoard
         {
             pictureBox3.Image = Resources.Skemaviserdania2;
         }
+
+        private void pictureBox4_MouseHover(object sender, EventArgs e)
+        {
+            pictureBox4.Image = Resources.Close3b;
+        }
+
+        private void pictureBox4_MouseLeave(object sender, EventArgs e)
+        {
+            pictureBox4.Image = Resources.Close3a;
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
