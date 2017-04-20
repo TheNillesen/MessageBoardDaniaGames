@@ -77,5 +77,15 @@ namespace MessageBoard
         {
             Application.Exit();
         }
+
+        private void pictureBox2_MouseClick(object sender, MouseEventArgs e)
+        {
+            //her skal vi ind på redigere uge som er form 2
+            this.Hide();
+            Form2 f2 = new Form2();
+            f2.ShowDialog(); 
+            
+
+        }
     }
 }
