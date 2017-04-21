@@ -74,127 +74,267 @@ namespace MessageBoard
 
         private void button5_Click(object sender, EventArgs e)
         {
-            //mandag
+            //mandag1
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             //tirsdag
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel1.Visible = true;
+
+            
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
             //onsdag
+            panel1.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel2.Visible = true;
+
+            
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
             //torsdag
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
+            
+            
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
             //fredag
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = true;
+
+            
         }
 
         private void button14_Click(object sender, EventArgs e)
         {
-            //mandag
+            //mandag2
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
             //tirsdag
+            
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel1.Visible = true;
         }
 
         private void button11_Click(object sender, EventArgs e)
         {
             //onsdag
+           
+
+            panel1.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel2.Visible = true;
         }
 
         private void button12_Click(object sender, EventArgs e)
         {
             //torsdag
+            
+
+            panel2.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
             //fredag
+            
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = true;
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
-            //mandag
+            //mandag3
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
         }
 
         private void button22_Click(object sender, EventArgs e)
         {
             //tirsdag
+            
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel1.Visible = true;
         }
 
         private void button20_Click(object sender, EventArgs e)
         {
             //onsdag
+            
+
+            panel1.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel2.Visible = true;
         }
 
         private void button21_Click(object sender, EventArgs e)
         {
             //torsdag
+            
+
+            panel2.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
         }
 
         private void button19_Click(object sender, EventArgs e)
         {
             //fredag
+            
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = true;
         }
 
         private void button32_Click(object sender, EventArgs e)
         {
-            //mandag
+            //mandag4
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
         }
 
         private void button31_Click(object sender, EventArgs e)
         {
             //tirsdag
+            
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel1.Visible = true;
         }
 
         private void button29_Click(object sender, EventArgs e)
         {
             //onsdag    
+            
+
+            panel1.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel2.Visible = true;
         }
 
         private void button30_Click(object sender, EventArgs e)
         {
             //torsdag
+            
+
+            panel2.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
         }
 
         private void button28_Click(object sender, EventArgs e)
         {
             //fredag
+            
+
+            panel2.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
         }
 
         private void button41_Click(object sender, EventArgs e)
         {
-            //mandag
+            //mandag5
+            panel1.Visible = false;
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
         }
 
         private void button40_Click(object sender, EventArgs e)
         {
             //tirsdag
+            
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel1.Visible = true;
         }
 
         private void button38_Click(object sender, EventArgs e)
         {
             //onsdag
+            
+
+            panel1.Visible = false;
+            panel3.Visible = false;
+            panel4.Visible = false;
+            panel2.Visible = true;
         }
 
         private void button39_Click(object sender, EventArgs e)
         {
             //torsdag
+            
+
+            panel2.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = false;
+            panel3.Visible = true;
+
         }
 
         private void button37_Click(object sender, EventArgs e)
         {
             //fredag
+           
+
+            panel2.Visible = false;
+            panel3.Visible = false;
+            panel1.Visible = false;
+            panel4.Visible = true;
         }
     }
 }

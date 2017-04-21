@@ -8,7 +8,7 @@ using System.IO;
 
 namespace MessageBoard
 {
-    sealed partial class Database
+    sealed partial class sqlDatabase
     {
         SQLiteConnection dbConn = new
         SQLiteConnection("Data Source=data.db;Version=3;");

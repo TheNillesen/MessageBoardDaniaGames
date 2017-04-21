@@ -18,7 +18,7 @@ namespace MessageBoard
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
-            Database db = new Database();      
+            sqlDatabase db = new sqlDatabase();      
             db.DataBridge();
 
         }
