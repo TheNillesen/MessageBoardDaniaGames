@@ -17,6 +17,10 @@ namespace MessageBoard
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            Database db = new Database();      
+            db.DataBridge();
+
         }
     }
 }
