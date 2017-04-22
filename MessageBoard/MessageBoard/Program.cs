@@ -19,7 +19,7 @@ namespace MessageBoard
             Application.Run(new Form1());
 
             sqlDatabase db = new sqlDatabase();      
-            db.DataBridge();
+          
 
         }
     }

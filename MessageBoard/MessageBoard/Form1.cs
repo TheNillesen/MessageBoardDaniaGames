@@ -13,6 +13,8 @@ namespace MessageBoard
 {
     public partial class Form1 : Form
     {
+
+        //fields for mouse drag
         private const int WM_NCHITTEST = 0x84;
         private const int HTCLIENT = 0x1;
         private const int HTCAPTION = 0x2;
