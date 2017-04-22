@@ -105,7 +105,7 @@ namespace MessageBoard
                     if ((int)m.Result == HTCLIENT)
                         m.Result = (IntPtr)HTCAPTION;
                     return;
-                    break;
+                    
             }
             base.WndProc(ref m);
         }
