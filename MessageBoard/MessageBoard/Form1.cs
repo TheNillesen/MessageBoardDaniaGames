@@ -34,7 +34,10 @@ namespace MessageBoard
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-
+            //her skal vi ind på skema viser som er form 3
+            this.Hide();
+            Form3 f3 = new Form3();
+            f3.Show();
         }
 
         private void pictureBox1_MouseHover(object sender, EventArgs e)

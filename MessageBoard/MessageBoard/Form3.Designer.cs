@@ -38,6 +38,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form3";
             this.Text = "Form3";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form3_KeyDown);
             this.ResumeLayout(false);
 
         }
