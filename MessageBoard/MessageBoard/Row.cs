@@ -70,6 +70,7 @@ namespace MessageBoard
         {
             if (checkBox.Checked)
             {
+                
                 skib.Text = aktivitet.Text = lærer.Text = lokale.Text = "";
                 Save();
             }
