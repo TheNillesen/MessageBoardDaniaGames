@@ -52,7 +52,6 @@
             this.textBox24 = new System.Windows.Forms.TextBox();
             this.nulstil = new System.Windows.Forms.Button();
             this.chooseAll = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
             this.checkBox56 = new System.Windows.Forms.CheckBox();
             this.checkBox57 = new System.Windows.Forms.CheckBox();
             this.checkBox58 = new System.Windows.Forms.CheckBox();
@@ -318,15 +317,6 @@
             this.chooseAll.UseVisualStyleBackColor = true;
             this.chooseAll.Click += new System.EventHandler(this.chooseAll_Click);
             // 
-            // button28
-            // 
-            this.button28.Location = new System.Drawing.Point(829, 554);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(142, 23);
-            this.button28.TabIndex = 186;
-            this.button28.Text = "Gem og gå til menu";
-            this.button28.UseVisualStyleBackColor = true;
-            // 
             // checkBox56
             // 
             this.checkBox56.AutoSize = true;
@@ -428,7 +418,7 @@
             // 
             // button29
             // 
-            this.button29.Location = new System.Drawing.Point(748, 554);
+            this.button29.Location = new System.Drawing.Point(896, 565);
             this.button29.Name = "button29";
             this.button29.Size = new System.Drawing.Size(75, 23);
             this.button29.TabIndex = 174;
@@ -730,7 +720,6 @@
             this.Controls.Add(this.textBox24);
             this.Controls.Add(this.nulstil);
             this.Controls.Add(this.chooseAll);
-            this.Controls.Add(this.button28);
             this.Controls.Add(this.checkBox56);
             this.Controls.Add(this.checkBox57);
             this.Controls.Add(this.checkBox58);
@@ -812,7 +801,6 @@
         private System.Windows.Forms.TextBox textBox24;
         private System.Windows.Forms.Button nulstil;
         private System.Windows.Forms.Button chooseAll;
-        private System.Windows.Forms.Button button28;
         private System.Windows.Forms.CheckBox checkBox56;
         private System.Windows.Forms.CheckBox checkBox57;
         private System.Windows.Forms.CheckBox checkBox58;
