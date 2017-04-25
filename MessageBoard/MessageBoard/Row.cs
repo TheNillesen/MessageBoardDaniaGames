@@ -42,6 +42,17 @@ namespace MessageBoard
             this.aktivitet = aktivitet; //3
         }
 
+        public Row(int id, RichTextBox lokale, RichTextBox skib, RichTextBox aktivitet, RichTextBox lærer)
+        {
+
+            this.id = id; //0
+            this.skib = skib; //2
+            this.lærer = lærer; //4
+            this.lokale = lokale; //1
+            this.aktivitet = aktivitet; //3
+        }
+
+
         public void Udfyld(Dage dag)
         {
             this.dag = dag;

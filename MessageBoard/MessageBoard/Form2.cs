@@ -99,6 +99,8 @@ namespace MessageBoard
 
             foreach (Row r in Rows)
                 r.Udfyld(Dage.Mandag);
+            int weekday = (int)DateTime.Now.DayOfWeek;
+            
 
         }
 
