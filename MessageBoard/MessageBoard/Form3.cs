@@ -37,12 +37,7 @@ namespace MessageBoard
             });
         }
 
-        private void Form3_Load(object sender, EventArgs e)
-        {
-            this.TopMost = true;
-            this.FormBorderStyle = FormBorderStyle.None;
-            this.WindowState = FormWindowState.Maximized;
-        }
+      
         private void Form3_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Escape)
@@ -99,6 +94,11 @@ namespace MessageBoard
 
         private void Form3_Load(object sender, EventArgs e)
         {
+
+            this.TopMost = true;
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+
             DateTime dt = DateTime.Now;
 
             switch (dt.DayOfWeek)
