@@ -130,6 +130,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(201, 12);
@@ -140,6 +141,7 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(1161, 12);
@@ -150,6 +152,7 @@
             // 
             // pictureBox3
             // 
+            this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(898, 12);
@@ -160,6 +163,7 @@
             // 
             // pictureBox4
             // 
+            this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox4.BackgroundImage")));
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Location = new System.Drawing.Point(985, 12);
@@ -170,6 +174,7 @@
             // 
             // pictureBox5
             // 
+            this.pictureBox5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox5.BackgroundImage")));
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox5.Location = new System.Drawing.Point(636, 12);
@@ -180,6 +185,7 @@
             // 
             // pictureBox6
             // 
+            this.pictureBox6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox6.BackgroundImage")));
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox6.Location = new System.Drawing.Point(549, 12);
@@ -190,6 +196,7 @@
             // 
             // pictureBox7
             // 
+            this.pictureBox7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox7.BackgroundImage")));
             this.pictureBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox7.Location = new System.Drawing.Point(723, 12);
@@ -200,6 +207,7 @@
             // 
             // pictureBox8
             // 
+            this.pictureBox8.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox8.BackgroundImage")));
             this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox8.Location = new System.Drawing.Point(27, 12);
@@ -210,6 +218,7 @@
             // 
             // pictureBox9
             // 
+            this.pictureBox9.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox9.BackgroundImage")));
             this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox9.Location = new System.Drawing.Point(375, 12);
@@ -220,6 +229,7 @@
             // 
             // pictureBox10
             // 
+            this.pictureBox10.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox10.BackgroundImage")));
             this.pictureBox10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox10.Location = new System.Drawing.Point(288, 12);
@@ -230,6 +240,7 @@
             // 
             // pictureBox11
             // 
+            this.pictureBox11.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox11.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox11.BackgroundImage")));
             this.pictureBox11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox11.Location = new System.Drawing.Point(1074, 12);
@@ -240,6 +251,7 @@
             // 
             // pictureBox12
             // 
+            this.pictureBox12.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox12.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox12.BackgroundImage")));
             this.pictureBox12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox12.Location = new System.Drawing.Point(462, 12);
@@ -250,6 +262,7 @@
             // 
             // pictureBox13
             // 
+            this.pictureBox13.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox13.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox13.BackgroundImage")));
             this.pictureBox13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox13.Location = new System.Drawing.Point(1248, 12);
@@ -260,6 +273,7 @@
             // 
             // pictureBox14
             // 
+            this.pictureBox14.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox14.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox14.BackgroundImage")));
             this.pictureBox14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox14.Location = new System.Drawing.Point(114, 12);
@@ -270,6 +284,7 @@
             // 
             // pictureBox15
             // 
+            this.pictureBox15.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.pictureBox15.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox15.BackgroundImage")));
             this.pictureBox15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox15.Location = new System.Drawing.Point(811, 12);
@@ -280,6 +295,7 @@
             // 
             // textBox21
             // 
+            this.textBox21.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox21.BackColor = System.Drawing.Color.White;
             this.textBox21.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox21.Location = new System.Drawing.Point(898, 167);
@@ -291,6 +307,7 @@
             // 
             // textBox22
             // 
+            this.textBox22.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox22.BackColor = System.Drawing.Color.White;
             this.textBox22.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox22.Location = new System.Drawing.Point(505, 167);
@@ -302,6 +319,7 @@
             // 
             // textBox23
             // 
+            this.textBox23.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox23.BackColor = System.Drawing.Color.White;
             this.textBox23.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox23.Location = new System.Drawing.Point(387, 166);
@@ -314,6 +332,7 @@
             // richTextBox221
             // 
             this.richTextBox221.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox221.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox221.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox221.Location = new System.Drawing.Point(337, 523);
             this.richTextBox221.Name = "richTextBox221";
@@ -325,6 +344,7 @@
             // richTextBox222
             // 
             this.richTextBox222.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox222.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox222.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox222.Location = new System.Drawing.Point(337, 490);
             this.richTextBox222.Name = "richTextBox222";
@@ -336,6 +356,7 @@
             // richTextBox223
             // 
             this.richTextBox223.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox223.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox223.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox223.Location = new System.Drawing.Point(337, 457);
             this.richTextBox223.Name = "richTextBox223";
@@ -347,6 +368,7 @@
             // richTextBox224
             // 
             this.richTextBox224.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox224.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox224.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox224.Location = new System.Drawing.Point(337, 424);
             this.richTextBox224.Name = "richTextBox224";
@@ -358,6 +380,7 @@
             // richTextBox225
             // 
             this.richTextBox225.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox225.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox225.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox225.Location = new System.Drawing.Point(337, 391);
             this.richTextBox225.Name = "richTextBox225";
@@ -369,6 +392,7 @@
             // richTextBox226
             // 
             this.richTextBox226.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox226.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox226.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox226.Location = new System.Drawing.Point(337, 358);
             this.richTextBox226.Name = "richTextBox226";
@@ -380,6 +404,7 @@
             // richTextBox227
             // 
             this.richTextBox227.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox227.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox227.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox227.Location = new System.Drawing.Point(337, 325);
             this.richTextBox227.Name = "richTextBox227";
@@ -391,6 +416,7 @@
             // richTextBox228
             // 
             this.richTextBox228.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox228.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox228.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox228.Location = new System.Drawing.Point(337, 292);
             this.richTextBox228.Name = "richTextBox228";
@@ -402,6 +428,7 @@
             // richTextBox229
             // 
             this.richTextBox229.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox229.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox229.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox229.Location = new System.Drawing.Point(337, 259);
             this.richTextBox229.Name = "richTextBox229";
@@ -413,6 +440,7 @@
             // richTextBox230
             // 
             this.richTextBox230.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox230.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox230.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox230.Location = new System.Drawing.Point(337, 226);
             this.richTextBox230.Name = "richTextBox230";
@@ -424,6 +452,7 @@
             // richTextBox231
             // 
             this.richTextBox231.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox231.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox231.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox231.Location = new System.Drawing.Point(337, 193);
             this.richTextBox231.Name = "richTextBox231";
@@ -434,6 +463,7 @@
             // 
             // textBox24
             // 
+            this.textBox24.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.textBox24.BackColor = System.Drawing.Color.White;
             this.textBox24.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox24.Location = new System.Drawing.Point(337, 166);
@@ -446,6 +476,7 @@
             // richTextBox232
             // 
             this.richTextBox232.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox232.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox232.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox232.Location = new System.Drawing.Point(898, 523);
             this.richTextBox232.Name = "richTextBox232";
@@ -457,6 +488,7 @@
             // richTextBox233
             // 
             this.richTextBox233.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox233.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox233.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox233.Location = new System.Drawing.Point(898, 490);
             this.richTextBox233.Name = "richTextBox233";
@@ -468,6 +500,7 @@
             // richTextBox234
             // 
             this.richTextBox234.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox234.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox234.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox234.Location = new System.Drawing.Point(898, 457);
             this.richTextBox234.Name = "richTextBox234";
@@ -479,6 +512,7 @@
             // richTextBox235
             // 
             this.richTextBox235.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox235.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox235.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox235.Location = new System.Drawing.Point(898, 424);
             this.richTextBox235.Name = "richTextBox235";
@@ -490,6 +524,7 @@
             // richTextBox236
             // 
             this.richTextBox236.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox236.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox236.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox236.Location = new System.Drawing.Point(898, 391);
             this.richTextBox236.Name = "richTextBox236";
@@ -501,6 +536,7 @@
             // richTextBox237
             // 
             this.richTextBox237.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox237.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox237.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox237.Location = new System.Drawing.Point(898, 358);
             this.richTextBox237.Name = "richTextBox237";
@@ -512,6 +548,7 @@
             // richTextBox238
             // 
             this.richTextBox238.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox238.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox238.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox238.Location = new System.Drawing.Point(898, 325);
             this.richTextBox238.Name = "richTextBox238";
@@ -523,6 +560,7 @@
             // richTextBox239
             // 
             this.richTextBox239.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox239.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox239.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox239.Location = new System.Drawing.Point(898, 292);
             this.richTextBox239.Name = "richTextBox239";
@@ -534,6 +572,7 @@
             // richTextBox240
             // 
             this.richTextBox240.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox240.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox240.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox240.Location = new System.Drawing.Point(898, 259);
             this.richTextBox240.Name = "richTextBox240";
@@ -545,6 +584,7 @@
             // richTextBox241
             // 
             this.richTextBox241.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox241.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox241.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox241.Location = new System.Drawing.Point(898, 226);
             this.richTextBox241.Name = "richTextBox241";
@@ -556,6 +596,7 @@
             // richTextBox242
             // 
             this.richTextBox242.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox242.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox242.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.richTextBox242.Location = new System.Drawing.Point(898, 193);
             this.richTextBox242.Name = "richTextBox242";
@@ -567,6 +608,7 @@
             // richTextBox243
             // 
             this.richTextBox243.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox243.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox243.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox243.Location = new System.Drawing.Point(387, 523);
             this.richTextBox243.Name = "richTextBox243";
@@ -578,6 +620,7 @@
             // richTextBox244
             // 
             this.richTextBox244.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox244.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox244.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox244.Location = new System.Drawing.Point(387, 490);
             this.richTextBox244.Name = "richTextBox244";
@@ -589,6 +632,7 @@
             // richTextBox245
             // 
             this.richTextBox245.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox245.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox245.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox245.Location = new System.Drawing.Point(387, 457);
             this.richTextBox245.Name = "richTextBox245";
@@ -600,6 +644,7 @@
             // richTextBox246
             // 
             this.richTextBox246.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox246.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox246.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox246.Location = new System.Drawing.Point(387, 424);
             this.richTextBox246.Name = "richTextBox246";
@@ -611,6 +656,7 @@
             // richTextBox247
             // 
             this.richTextBox247.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox247.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox247.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox247.Location = new System.Drawing.Point(387, 391);
             this.richTextBox247.Name = "richTextBox247";
@@ -622,6 +668,7 @@
             // richTextBox248
             // 
             this.richTextBox248.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox248.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox248.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox248.Location = new System.Drawing.Point(387, 358);
             this.richTextBox248.Name = "richTextBox248";
@@ -633,6 +680,7 @@
             // richTextBox249
             // 
             this.richTextBox249.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox249.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox249.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox249.Location = new System.Drawing.Point(387, 325);
             this.richTextBox249.Name = "richTextBox249";
@@ -644,6 +692,7 @@
             // richTextBox250
             // 
             this.richTextBox250.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox250.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox250.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox250.Location = new System.Drawing.Point(387, 292);
             this.richTextBox250.Name = "richTextBox250";
@@ -655,6 +704,7 @@
             // richTextBox251
             // 
             this.richTextBox251.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox251.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox251.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox251.Location = new System.Drawing.Point(387, 259);
             this.richTextBox251.Name = "richTextBox251";
@@ -666,6 +716,7 @@
             // richTextBox252
             // 
             this.richTextBox252.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox252.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox252.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox252.Location = new System.Drawing.Point(387, 226);
             this.richTextBox252.Name = "richTextBox252";
@@ -677,6 +728,7 @@
             // richTextBox253
             // 
             this.richTextBox253.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox253.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox253.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox253.Location = new System.Drawing.Point(387, 193);
             this.richTextBox253.Name = "richTextBox253";
@@ -688,8 +740,10 @@
             // richTextBox254
             // 
             this.richTextBox254.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox254.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox254.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox254.Location = new System.Drawing.Point(505, 523);
+            this.richTextBox254.Multiline = false;
             this.richTextBox254.Name = "richTextBox254";
             this.richTextBox254.ReadOnly = true;
             this.richTextBox254.Size = new System.Drawing.Size(387, 27);
@@ -699,6 +753,7 @@
             // richTextBox255
             // 
             this.richTextBox255.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox255.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox255.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox255.Location = new System.Drawing.Point(505, 490);
             this.richTextBox255.Name = "richTextBox255";
@@ -710,6 +765,7 @@
             // richTextBox256
             // 
             this.richTextBox256.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox256.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox256.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox256.Location = new System.Drawing.Point(505, 457);
             this.richTextBox256.Name = "richTextBox256";
@@ -721,6 +777,7 @@
             // richTextBox257
             // 
             this.richTextBox257.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox257.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox257.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox257.Location = new System.Drawing.Point(505, 424);
             this.richTextBox257.Name = "richTextBox257";
@@ -732,6 +789,7 @@
             // richTextBox258
             // 
             this.richTextBox258.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox258.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox258.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox258.Location = new System.Drawing.Point(505, 391);
             this.richTextBox258.Name = "richTextBox258";
@@ -744,6 +802,7 @@
             // richTextBox259
             // 
             this.richTextBox259.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox259.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox259.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox259.Location = new System.Drawing.Point(505, 358);
             this.richTextBox259.Name = "richTextBox259";
@@ -755,6 +814,7 @@
             // richTextBox260
             // 
             this.richTextBox260.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox260.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox260.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox260.Location = new System.Drawing.Point(505, 325);
             this.richTextBox260.Name = "richTextBox260";
@@ -766,6 +826,7 @@
             // richTextBox261
             // 
             this.richTextBox261.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox261.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox261.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox261.Location = new System.Drawing.Point(505, 292);
             this.richTextBox261.Name = "richTextBox261";
@@ -777,6 +838,7 @@
             // richTextBox262
             // 
             this.richTextBox262.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox262.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox262.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox262.Location = new System.Drawing.Point(505, 259);
             this.richTextBox262.Name = "richTextBox262";
@@ -788,6 +850,7 @@
             // richTextBox263
             // 
             this.richTextBox263.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox263.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox263.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox263.Location = new System.Drawing.Point(505, 226);
             this.richTextBox263.Name = "richTextBox263";
@@ -799,8 +862,10 @@
             // richTextBox264
             // 
             this.richTextBox264.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.richTextBox264.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.richTextBox264.Cursor = System.Windows.Forms.Cursors.Default;
             this.richTextBox264.Location = new System.Drawing.Point(505, 193);
+            this.richTextBox264.Multiline = false;
             this.richTextBox264.Name = "richTextBox264";
             this.richTextBox264.ReadOnly = true;
             this.richTextBox264.Size = new System.Drawing.Size(387, 27);
@@ -809,6 +874,7 @@
             // 
             // richTextBox1
             // 
+            this.richTextBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox1.Location = new System.Drawing.Point(27, 98);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
@@ -818,6 +884,7 @@
             // 
             // richTextBox2
             // 
+            this.richTextBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox2.Location = new System.Drawing.Point(114, 98);
             this.richTextBox2.Name = "richTextBox2";
             this.richTextBox2.ReadOnly = true;
@@ -827,6 +894,7 @@
             // 
             // richTextBox3
             // 
+            this.richTextBox3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox3.Location = new System.Drawing.Point(201, 98);
             this.richTextBox3.Name = "richTextBox3";
             this.richTextBox3.ReadOnly = true;
@@ -836,6 +904,7 @@
             // 
             // richTextBox4
             // 
+            this.richTextBox4.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox4.Location = new System.Drawing.Point(288, 98);
             this.richTextBox4.Name = "richTextBox4";
             this.richTextBox4.ReadOnly = true;
@@ -845,6 +914,7 @@
             // 
             // richTextBox5
             // 
+            this.richTextBox5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox5.Location = new System.Drawing.Point(375, 98);
             this.richTextBox5.Name = "richTextBox5";
             this.richTextBox5.ReadOnly = true;
@@ -854,6 +924,7 @@
             // 
             // richTextBox6
             // 
+            this.richTextBox6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox6.Location = new System.Drawing.Point(462, 98);
             this.richTextBox6.Name = "richTextBox6";
             this.richTextBox6.ReadOnly = true;
@@ -863,6 +934,7 @@
             // 
             // richTextBox7
             // 
+            this.richTextBox7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox7.Location = new System.Drawing.Point(549, 98);
             this.richTextBox7.Name = "richTextBox7";
             this.richTextBox7.ReadOnly = true;
@@ -872,6 +944,7 @@
             // 
             // richTextBox8
             // 
+            this.richTextBox8.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox8.Location = new System.Drawing.Point(636, 98);
             this.richTextBox8.Name = "richTextBox8";
             this.richTextBox8.ReadOnly = true;
@@ -881,6 +954,7 @@
             // 
             // richTextBox9
             // 
+            this.richTextBox9.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox9.Location = new System.Drawing.Point(723, 98);
             this.richTextBox9.Name = "richTextBox9";
             this.richTextBox9.ReadOnly = true;
@@ -890,6 +964,7 @@
             // 
             // richTextBox10
             // 
+            this.richTextBox10.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox10.Location = new System.Drawing.Point(811, 98);
             this.richTextBox10.Name = "richTextBox10";
             this.richTextBox10.ReadOnly = true;
@@ -899,6 +974,7 @@
             // 
             // richTextBox11
             // 
+            this.richTextBox11.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox11.Location = new System.Drawing.Point(898, 98);
             this.richTextBox11.Name = "richTextBox11";
             this.richTextBox11.ReadOnly = true;
@@ -908,6 +984,7 @@
             // 
             // richTextBox12
             // 
+            this.richTextBox12.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox12.Location = new System.Drawing.Point(985, 98);
             this.richTextBox12.Name = "richTextBox12";
             this.richTextBox12.ReadOnly = true;
@@ -917,6 +994,7 @@
             // 
             // richTextBox13
             // 
+            this.richTextBox13.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox13.Location = new System.Drawing.Point(1074, 98);
             this.richTextBox13.Name = "richTextBox13";
             this.richTextBox13.ReadOnly = true;
@@ -926,6 +1004,7 @@
             // 
             // richTextBox14
             // 
+            this.richTextBox14.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox14.Location = new System.Drawing.Point(1161, 98);
             this.richTextBox14.Name = "richTextBox14";
             this.richTextBox14.ReadOnly = true;
@@ -935,6 +1014,7 @@
             // 
             // richTextBox15
             // 
+            this.richTextBox15.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.richTextBox15.Location = new System.Drawing.Point(1248, 98);
             this.richTextBox15.Name = "richTextBox15";
             this.richTextBox15.ReadOnly = true;
@@ -944,6 +1024,7 @@
             // 
             // pictureBox16
             // 
+            this.pictureBox16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox16.BackgroundImage = global::MessageBoard.Properties.Resources.daniagames;
             this.pictureBox16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox16.Location = new System.Drawing.Point(1027, 501);
