@@ -58,8 +58,8 @@ namespace MessageBoard
             torsdag.ExecuteNonQuery();
             fredag.ExecuteNonQuery();
 
-            new SQLiteCommand("insert into Mandag values(null, \"2\", \"halløj\", \"kodefis\", \"dm\")", dbConn).ExecuteNonQuery();
-            new SQLiteCommand("insert into Tirsdag values(null, \"3\", \"godav\", \"leg\", \"milo\")", dbConn).ExecuteNonQuery();
+            //new SQLiteCommand("insert into Mandag values(null, \"2\", \"halløj\", \"kodefis\", \"dm\")", dbConn).ExecuteNonQuery();
+            //new SQLiteCommand("insert into Tirsdag values(null, \"3\", \"godav\", \"leg\", \"milo\")", dbConn).ExecuteNonQuery();
 
             
         }
