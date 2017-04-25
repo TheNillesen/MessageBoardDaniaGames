@@ -40,15 +40,7 @@ namespace MessageBoard
             f3.Show();
         }
 
-        private void pictureBox1_MouseHover(object sender, EventArgs e)
-        {
-            pictureBox1.Image = Resources.rubberduckdania;
-        }
-
-        private void pictureBox1_MouseLeave(object sender, EventArgs e)
-        {
-            pictureBox1.Image = Resources.rubberduckdania2;
-        }
+      
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
         {
