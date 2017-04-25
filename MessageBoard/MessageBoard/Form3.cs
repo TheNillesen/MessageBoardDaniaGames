@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace MessageBoard
 {
     public partial class Form3 : Form
@@ -17,6 +18,14 @@ namespace MessageBoard
             InitializeComponent();
         }
 
-       
+        private void Form3_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Escape)
+            {
+                this.Close();
+                Form1 f1 = new Form1();
+                f1.Show();
+            }
+        }
     }
 }
