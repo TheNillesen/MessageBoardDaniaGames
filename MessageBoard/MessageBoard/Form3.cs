@@ -14,13 +14,13 @@ namespace MessageBoard
     public partial class Form3 : Form
     {
 
-        List<Row> Rows = new List<Row>();
+        static List<Row> rows = new List<Row>();
 
         public Form3()
         {
             InitializeComponent();
 
-            Rows.AddRange(new Row[]
+            rows.AddRange(new Row[]
             {
                 //en dags planlægning / gælder for alle dage
                 new Row(11,richTextBox221,richTextBox243,richTextBox254,richTextBox232),
@@ -63,6 +63,80 @@ namespace MessageBoard
                 Form1 f1 = new Form1();
                 f1.Show();
 
+            }
+        }
+
+        public static void CastingScreen()
+        {
+            DateTime dt = DateTime.Now;
+            if(dt.DayOfWeek == DayOfWeek.Monday)
+            {
+
+                foreach (Row r in rows)
+                    r.Udfyld(Dage.Mandag);
+            }
+
+            else if (dt.DayOfWeek == DayOfWeek.Tuesday)
+            {
+
+                foreach (Row r in rows)
+                    r.Udfyld(Dage.Tirsdag);
+            }
+
+            else if(dt.DayOfWeek == DayOfWeek.Wednesday)
+            {
+
+                foreach (Row r in rows)
+                    r.Udfyld(Dage.Onsdag);
+            }
+            
+            else if(dt.DayOfWeek == DayOfWeek.Thursday)
+            {
+
+                foreach (Row r in rows)
+                    r.Udfyld(Dage.Torsdag);
+            }
+            else if(dt.DayOfWeek == DayOfWeek.Friday)
+            {
+
+                foreach (Row r in rows)
+                    r.Udfyld(Dage.Fredag);
+            }
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            DateTime dt = DateTime.Now;
+
+            switch (dt.DayOfWeek)
+            {
+                case DayOfWeek.Sunday:
+                   
+                    break;
+                case DayOfWeek.Monday:
+                    foreach (Row r in rows)
+                        r.Udfyld(Dage.Mandag);
+                    break;
+                case DayOfWeek.Tuesday:
+                    foreach (Row r in rows)
+                        r.Udfyld(Dage.Tirsdag);
+                    break;
+                case DayOfWeek.Wednesday:
+                    foreach (Row r in rows)
+                        r.Udfyld(Dage.Onsdag);
+                    break;
+                case DayOfWeek.Thursday:
+                    foreach (Row r in rows)
+                        r.Udfyld(Dage.Torsdag);
+                    break;
+                case DayOfWeek.Friday:
+                    foreach (Row r in rows)
+                        r.Udfyld(Dage.Fredag);
+                    break;
+                case DayOfWeek.Saturday:
+                    break;
+                default:
+                    break;
             }
         }
     }

@@ -63,7 +63,7 @@ namespace MessageBoard
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+           
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -99,8 +99,7 @@ namespace MessageBoard
 
             foreach (Row r in Rows)
                 r.Udfyld(Dage.Mandag);
-            int weekday = (int)DateTime.Now.DayOfWeek;
-            
+           
 
         }
 
