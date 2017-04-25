@@ -110,6 +110,7 @@
             this.richTextBox15 = new System.Windows.Forms.RichTextBox();
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
             this.CloseTimer = new System.Windows.Forms.Timer(this.components);
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -126,6 +127,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -739,7 +741,6 @@
             this.richTextBox258.Size = new System.Drawing.Size(387, 27);
             this.richTextBox258.TabIndex = 210;
             this.richTextBox258.Text = "";
-            this.richTextBox258.TextChanged += new System.EventHandler(this.richTextBox258_TextChanged);
             // 
             // richTextBox259
             // 
@@ -957,6 +958,18 @@
             this.CloseTimer.Enabled = true;
             this.CloseTimer.Interval = 10;
             // 
+            // pictureBox17
+            // 
+            this.pictureBox17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.pictureBox17.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox17.BackgroundImage")));
+            this.pictureBox17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox17.Location = new System.Drawing.Point(12, 571);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(125, 46);
+            this.pictureBox17.TabIndex = 268;
+            this.pictureBox17.TabStop = false;
+            this.pictureBox17.Click += new System.EventHandler(this.pictureBox17_Click);
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -964,6 +977,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1354, 629);
+            this.Controls.Add(this.pictureBox17);
             this.Controls.Add(this.pictureBox16);
             this.Controls.Add(this.richTextBox15);
             this.Controls.Add(this.richTextBox14);
@@ -1064,6 +1078,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1151,5 +1166,6 @@
         private System.Windows.Forms.RichTextBox richTextBox15;
         private System.Windows.Forms.PictureBox pictureBox16;
         private System.Windows.Forms.Timer CloseTimer;
+        private System.Windows.Forms.PictureBox pictureBox17;
     }
 }

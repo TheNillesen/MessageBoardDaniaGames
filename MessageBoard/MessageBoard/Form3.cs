@@ -38,28 +38,7 @@ namespace MessageBoard
         }
 
       
-        private void Form3_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Escape)
-            {
-                this.Close();
-                Form1 f1 = new Form1();
-                f1.Show();
-                
-            }
-        }
-
-        private void richTextBox258_TextChanged(object sender, EventArgs e)
-        {
-
-            if (Control.ModifierKeys == Keys.Escape)
-            {
-                this.Close();
-                Form1 f1 = new Form1();
-                f1.Show();
-
-            }
-        }
+        
 
         public static void CastingScreen()
         {
@@ -138,6 +117,13 @@ namespace MessageBoard
                 default:
                     break;
             }
+        }
+
+        private void pictureBox17_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 f1 = new Form1();
+            f1.Show();
         }
     }
 }
